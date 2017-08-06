@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<meta content="{{ page.title }}" property="og:title">
+	
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-33209012-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+       })();
+
+     </script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+		<center><img src = "https://quadrotor-iitkgp.github.io/images/ark.png" width = "40%"></center>
+        <h1>May the thrust be with you!</h1>
+        <p></p>
+        <p>We are ARK, <a
+          href="http://quadrotor-iitkgp.github.io">Aerial Robotics Kharagpur</a>, a
+          research group at Indian Institute of Technology Kharagpur.
+          <br/><br/>
+		  We build aerial robots as a hobby, for research, for fun and plan to build an army to conquer Mars, soon enough.
+	We blog about our hacks, research, projects and experiences as our birds (drones) travel different galaxies.</p>
+        <a href="https://quadrotor-iitkgp.github.io/ark-blog">Blog Home</a><br/>
+        <a href="http://quadrotor-iitkgp.github.io">About</a><br/>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+		<div id="social-box">
+		  <ul>
+			<li>
+			  <div class="facebook"><a href="https://www.facebook.com/aerialroboticskgp"></a></div>
+			</li>
+			<li>
+			  <div class="github"><a href="https://www.github.com/quadrotor-iitkgp"></a></div>
+			<li>
+			  <div class="rss"><a href="#"></a></div>
+			</li>
+		  </ul>
+		</div>
+		<p><small>This blog is powered by <a href="http://github.com/mojombo/jekyll">jekyll</a>.</small><br>
+        &copy 2016 Aerial Robotics Kharagpur.</p>
+      </footer>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
