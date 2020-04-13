@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efd190c5eaad318980149a18ae78f180",
+    "revision": "835cb019979aa174260c48326d8b0fdd",
     "url": "/akhilesh-k.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/akhilesh-k.github.io/static/css/2.ab965100.chunk.css"
   },
   {
-    "revision": "2b92b21db9e334fbb42d",
-    "url": "/akhilesh-k.github.io/static/css/main.06bbb60c.chunk.css"
+    "revision": "65726638caf48ab24b18",
+    "url": "/akhilesh-k.github.io/static/css/main.e9ed2492.chunk.css"
   },
   {
     "revision": "3181c340cb9ec70b2fcb",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/akhilesh-k.github.io/static/js/2.f00006d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b92b21db9e334fbb42d",
-    "url": "/akhilesh-k.github.io/static/js/main.c120c72d.chunk.js"
+    "revision": "65726638caf48ab24b18",
+    "url": "/akhilesh-k.github.io/static/js/main.4d41a9a2.chunk.js"
   },
   {
     "revision": "06efa7f8f11bb3cc4137",
