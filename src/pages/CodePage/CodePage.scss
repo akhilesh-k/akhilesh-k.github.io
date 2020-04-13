@@ -1,0 +1,25 @@
+@import "../../sass/breakpoints";
+
+.CodePage {
+  padding-top: 30px;
+  .center {
+    text-align: center;
+    margin: 3%;
+    font-size: 5em;
+
+    @include small {
+      font-size: 2em;
+      margin: 3%;
+    }
+
+    @include medium {
+      font-size: 3em;
+      margin: 3%;
+    }
+  }
+
+  .subtitle {
+    margin: 6%;
+    font-size: 2em;
+  }
+}

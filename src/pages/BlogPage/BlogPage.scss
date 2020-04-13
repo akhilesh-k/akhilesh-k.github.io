@@ -1,0 +1,26 @@
+@import "../../sass/breakpoints";
+
+.BlogPage {
+  padding-top: 30px;
+  .h1 {
+    font-size: 1em;
+  }
+  .center {
+    text-align: center;
+    margin: 3%;
+    font-size: 5em;
+
+    @include small {
+      font-size: 2em;
+    }
+
+    @include medium {
+      font-size: 3em;
+    }
+  }
+
+  .subtitle {
+    margin: 4%;
+    font-size: 2em;
+  }
+}
