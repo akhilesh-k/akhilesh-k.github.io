@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "835cb019979aa174260c48326d8b0fdd",
+    "revision": "033bd0b9a69425142a7a303267835410",
     "url": "/akhilesh-k.github.io/index.html"
   },
   {
-    "revision": "3181c340cb9ec70b2fcb",
+    "revision": "52a1271a95d1dfbcd8ff",
     "url": "/akhilesh-k.github.io/static/css/2.ab965100.chunk.css"
   },
   {
-    "revision": "65726638caf48ab24b18",
-    "url": "/akhilesh-k.github.io/static/css/main.e9ed2492.chunk.css"
+    "revision": "bdb52baa89c6d4a54f79",
+    "url": "/akhilesh-k.github.io/static/css/main.46ddf218.chunk.css"
   },
   {
-    "revision": "3181c340cb9ec70b2fcb",
-    "url": "/akhilesh-k.github.io/static/js/2.f00006d1.chunk.js"
+    "revision": "52a1271a95d1dfbcd8ff",
+    "url": "/akhilesh-k.github.io/static/js/2.bbfb77f9.chunk.js"
   },
   {
     "revision": "7585d7e2191ead1c7fd01d7ebe90ade7",
-    "url": "/akhilesh-k.github.io/static/js/2.f00006d1.chunk.js.LICENSE.txt"
+    "url": "/akhilesh-k.github.io/static/js/2.bbfb77f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65726638caf48ab24b18",
-    "url": "/akhilesh-k.github.io/static/js/main.4d41a9a2.chunk.js"
+    "revision": "bdb52baa89c6d4a54f79",
+    "url": "/akhilesh-k.github.io/static/js/main.61d5cf14.chunk.js"
   },
   {
     "revision": "06efa7f8f11bb3cc4137",
     "url": "/akhilesh-k.github.io/static/js/runtime-main.e68adc1c.js"
-  },
-  {
-    "revision": "5a87cce84010f7cea085ae218d44a64b",
-    "url": "/akhilesh-k.github.io/static/media/NotoSans-Regular.5a87cce8.ttf"
   },
   {
     "revision": "db869de9f39909c57e535b65317e51ef",
@@ -46,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d9ff69d93ac4cc6c0b2088f4820b6dc7",
     "url": "/akhilesh-k.github.io/static/media/instagram.d9ff69d9.svg"
-  },
-  {
-    "revision": "b8f420b1d589d1c72703f8ffb598dcf6",
-    "url": "/akhilesh-k.github.io/static/media/jupyter.b8f420b1.png"
   },
   {
     "revision": "a421fcee7490b8d125ce8072cc725cfe",

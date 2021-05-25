@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/akhilesh-k.github.io/static/css/main.e9ed2492.chunk.css",
-    "main.js": "/akhilesh-k.github.io/static/js/main.4d41a9a2.chunk.js",
-    "main.js.map": "/akhilesh-k.github.io/static/js/main.4d41a9a2.chunk.js.map",
+    "main.css": "/akhilesh-k.github.io/static/css/main.46ddf218.chunk.css",
+    "main.js": "/akhilesh-k.github.io/static/js/main.61d5cf14.chunk.js",
+    "main.js.map": "/akhilesh-k.github.io/static/js/main.61d5cf14.chunk.js.map",
     "runtime-main.js": "/akhilesh-k.github.io/static/js/runtime-main.e68adc1c.js",
     "runtime-main.js.map": "/akhilesh-k.github.io/static/js/runtime-main.e68adc1c.js.map",
     "static/css/2.ab965100.chunk.css": "/akhilesh-k.github.io/static/css/2.ab965100.chunk.css",
-    "static/js/2.f00006d1.chunk.js": "/akhilesh-k.github.io/static/js/2.f00006d1.chunk.js",
-    "static/js/2.f00006d1.chunk.js.map": "/akhilesh-k.github.io/static/js/2.f00006d1.chunk.js.map",
+    "static/js/2.bbfb77f9.chunk.js": "/akhilesh-k.github.io/static/js/2.bbfb77f9.chunk.js",
+    "static/js/2.bbfb77f9.chunk.js.map": "/akhilesh-k.github.io/static/js/2.bbfb77f9.chunk.js.map",
     "index.html": "/akhilesh-k.github.io/index.html",
-    "precache-manifest.fd3aca26b8c43e981accd9b5e4701a0e.js": "/akhilesh-k.github.io/precache-manifest.fd3aca26b8c43e981accd9b5e4701a0e.js",
+    "precache-manifest.0b4c044759c45e9ab06ef8469da560e4.js": "/akhilesh-k.github.io/precache-manifest.0b4c044759c45e9ab06ef8469da560e4.js",
     "service-worker.js": "/akhilesh-k.github.io/service-worker.js",
     "static/css/2.ab965100.chunk.css.map": "/akhilesh-k.github.io/static/css/2.ab965100.chunk.css.map",
-    "static/css/main.e9ed2492.chunk.css.map": "/akhilesh-k.github.io/static/css/main.e9ed2492.chunk.css.map",
-    "static/js/2.f00006d1.chunk.js.LICENSE.txt": "/akhilesh-k.github.io/static/js/2.f00006d1.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/akhilesh-k.github.io/static/media/NotoSans-Regular.5a87cce8.ttf",
+    "static/css/main.46ddf218.chunk.css.map": "/akhilesh-k.github.io/static/css/main.46ddf218.chunk.css.map",
+    "static/js/2.bbfb77f9.chunk.js.LICENSE.txt": "/akhilesh-k.github.io/static/js/2.bbfb77f9.chunk.js.LICENSE.txt",
     "static/media/dev-dot-to.svg": "/akhilesh-k.github.io/static/media/dev-dot-to.db869de9.svg",
     "static/media/github.svg": "/akhilesh-k.github.io/static/media/github.77c43ad2.svg",
     "static/media/gmail.svg": "/akhilesh-k.github.io/static/media/gmail.da6e483b.svg",
     "static/media/instagram.svg": "/akhilesh-k.github.io/static/media/instagram.d9ff69d9.svg",
-    "static/media/jupyter.png": "/akhilesh-k.github.io/static/media/jupyter.b8f420b1.png",
     "static/media/linkedin.svg": "/akhilesh-k.github.io/static/media/linkedin.a421fcee.svg",
     "static/media/medium.svg": "/akhilesh-k.github.io/static/media/medium.510a4388.svg",
     "static/media/profile.png": "/akhilesh-k.github.io/static/media/profile.d1e7714b.png",
@@ -28,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.e68adc1c.js",
     "static/css/2.ab965100.chunk.css",
-    "static/js/2.f00006d1.chunk.js",
-    "static/css/main.e9ed2492.chunk.css",
-    "static/js/main.4d41a9a2.chunk.js"
+    "static/js/2.bbfb77f9.chunk.js",
+    "static/css/main.46ddf218.chunk.css",
+    "static/js/main.61d5cf14.chunk.js"
   ]
 }
